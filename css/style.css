@@ -1,0 +1,8 @@
+body {
+	background-color: #3A7F4C;
+}
+
+
+.form__input._error {
+	background-color: red;
+}
